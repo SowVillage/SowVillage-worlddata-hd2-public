@@ -1,0 +1,2 @@
+Minecraft UI symbol images: Mojang / Microsoft. Archived symbol mapping and image reference: https://github.com/TwistedAsylumMC/bedrock-unicode-characters at 28537887f62de3e3014b3889d9ce6e6011fee4d9.
+Only symbols occurring in the archived world are embedded.
